@@ -32,7 +32,7 @@ chmod 755 account_setup.sh &&
 /bin/bash account_setup.sh
 ```
 
-4. Follow the on screen prompts to create the necessary Azure resources and copy the output into your `.aztk/secrets.yaml` file. For more information see [Getting Started Scripts](./01-Getting-Started-Script).
+4. Follow the on screen prompts to create the necessary Azure resources and copy the output into your `.aztk/secrets.yaml` file. For more information see [Getting Started Scripts](./docs/01-getting-started-script.md).
 
 
 ## Quickstart Guide
